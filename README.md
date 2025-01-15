@@ -1,11 +1,5 @@
 # reutdani1lqa
-<style>
- .id {
- float: right;    
- margin: 0 0 0 15px;
-}
- </style>
- 
+
 My name is Daniil and I am QA engineer student. Here I want to share some projects that I gained during my studies.
 
 # 💫 About Me:
