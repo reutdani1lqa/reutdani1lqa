@@ -2,8 +2,9 @@
 
 My name is Daniil and I am QA engineer student. Here I want to share some projects that I gained during my studies.
 
+# 💫 About Me:
 <div style="display: flex; align-items: center;">
-  <ul> # 💫 About Me:
+  <ul> 
     <li>💢 Right now I'm studying Java Testing with Selenium Course. </li>
     <li>👩‍💻 Finished software testing [course](https://drive.google.com/file/d/1uZAMwS7Z9lq6vdX-chYZvD41Swz9LzZF/view?usp=drive_link). </li>
     <li>☕ Take a look at my [resume](https://drive.google.com/file/d/1G44akYksEdiI15ynK8sRDI7l2-QT9dSd/view?usp=drive_link). </li>
