@@ -3,8 +3,9 @@
 My name is Daniil and I am QA engineer student. Here I want to share some projects that I gained during my studies.
 
 # 💫 About Me:
+<img src="https://github.com/reutdani1lqa/reutdani1lqa/blob/main/images/gif.gif" style="width: 200px;">
 - 💢 Right now I'm studying Java Testing with Selenium Course.
-- 👩‍💻 Finished software testing [course](https://drive.google.com/file/d/1uZAMwS7Z9lq6vdX-chYZvD41Swz9LzZF/view?usp=drive_link).<img src="https://github.com/reutdani1lqa/reutdani1lqa/blob/main/images/gif.gif" style="float: right; margin-left: 10px; width: 200px; display: inline-block;">
+- 👩‍💻 Finished software testing [course](https://drive.google.com/file/d/1uZAMwS7Z9lq6vdX-chYZvD41Swz9LzZF/view?usp=drive_link).
 - ☕ Take a look at my [resume](https://drive.google.com/file/d/1G44akYksEdiI15ynK8sRDI7l2-QT9dSd/view?usp=drive_link).
 - 🎸 Random fact about me: I love playing guitar, cycling and Stone Temple Pilots. 
 
