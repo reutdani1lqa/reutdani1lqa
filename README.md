@@ -1,7 +1,7 @@
 # reutdani1lqa
 <style>
- #id {
-float: right;    
+ .id {
+ float: right;    
  margin: 0 0 0 15px;
 }
  </style>
