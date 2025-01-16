@@ -6,7 +6,7 @@ My name is Daniil and I am QA engineer student. Here I want to share some projec
 - 💢 Right now I'm studying Java Testing with Selenium Course.
 - 👩‍💻 Finished software testing [course](https://drive.google.com/file/d/1uZAMwS7Z9lq6vdX-chYZvD41Swz9LzZF/view?usp=drive_link).
 - 👨‍🎓 My study cases are available below.
-- ☕ Take a look at my [resume](https://drive.google.com/file/d/1j1x8SEUgfXNI6GJSLXycmJqxcluG3XA8/view?usp=drive_link).
+- ☕ Take a look at my [resume](https://drive.google.com/file/d/1qYlS6cAglQoLYGo6lNhUBAnNX4XaZxNM/view?usp=drive_link).
 - 🎸 Random fact about me: I love playing guitar, cycling and Stone Temple Pilots. 
 
 # 💻 Tech Stack:
