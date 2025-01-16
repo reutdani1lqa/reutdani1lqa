@@ -16,4 +16,9 @@ My name is Daniil and I am QA engineer student. Here I want to share some projec
 - [Web testing](https://github.com/reutdani1lqa/web_testing)
 - [API testing via Postman](https://github.com/reutdani1lqa/api_testing)
 - [Mobile testing](https://github.com/reutdani1lqa/mobile_testing)
+- [MySQL queries](https://github.com/reutdani1lqa/mysql)
+- [Git commands](https://github.com/reutdani1lqa/git)
+
+  # Find Me Online:
+  
 
