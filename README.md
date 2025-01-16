@@ -20,6 +20,7 @@ My name is Daniil and I am QA engineer student. Here I want to share some projec
 - [Git commands](https://github.com/reutdani1lqa/git)
 
   # ✋ Find Me Online:
+  <div align="center">
   <a href="https://t.me/dnclq" target="_blank">
   <img src="https://github.com/reutdani1lqa/reutdani1lqa/blob/main/images/tg.png" width="40" height="40">
   </a>
@@ -29,5 +30,5 @@ My name is Daniil and I am QA engineer student. Here I want to share some projec
   <a href="https://linkedin.com/in/reutdani1lqa" target="_blank">
   <img src="https://github.com/reutdani1lqa/reutdani1lqa/blob/main/images/linkedin.png" width="40" height="40">
   </a>
-  
+  </div>
 
