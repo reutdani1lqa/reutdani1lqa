@@ -19,8 +19,8 @@ My name is Daniil and I am QA engineer student. Here I want to share some projec
 - [MySQL queries](https://github.com/reutdani1lqa/mysql)
 - [Git commands](https://github.com/reutdani1lqa/git)
 
+ <div align="center">
   # ✋ Find Me Online:
-  <div align="center">
   <a href="https://t.me/dnclq" target="_blank">
   <img src="https://github.com/reutdani1lqa/reutdani1lqa/blob/main/images/tg.png" width="40" height="40">
   </a>
