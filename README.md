@@ -18,8 +18,8 @@ Daniil, QA engineer enthusiast.
 - [MySQL queries](https://github.com/reutdani1lqa/mysql)
 - [Git commands](https://github.com/reutdani1lqa/git)
 
-# Contact me:
   <div align="center">
+# Contact me:
   <a href="https://t.me/dnclq" target="_blank">
   <img src="https://github.com/reutdani1lqa/reutdani1lqa/blob/main/images/tg.png" width="40" height="40">
   </a>
