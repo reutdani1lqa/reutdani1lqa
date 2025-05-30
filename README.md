@@ -20,11 +20,13 @@ Open to work! 🌎
 ## 👀 My study cases:
 - [Playwright tests using Typescript](https://github.com/reutdani1lqa/playwright_practice)
 - [Commercial project](https://resoftime.by)
+- [My first docker image](https://hub.docker.com/repositories/kidjoseph8)
 - [API testing via Postman](https://github.com/reutdani1lqa/api_testing)
 - [Web testing](https://github.com/reutdani1lqa/web_testing)
 - [Mobile testing](https://github.com/reutdani1lqa/mobile_testing)
 - [MySQL queries](https://github.com/reutdani1lqa/mysql)
 - [Git commands](https://github.com/reutdani1lqa/git)
+
 
 <div align="center">
   <h3>Contact me:</h3>
