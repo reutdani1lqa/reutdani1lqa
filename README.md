@@ -14,7 +14,7 @@ Open to work! 🌎
 
 # About Me:
 - 💢 Right now I'm working with commercial project for service company.
-- ☕ Take a look at my [resume](https://drive.google.com/file/d/1Ebih4zbjOt8krNipKgqkz00t3YvR6qAO/view?usp=sharing).
+- ☕ Take a look at my [resume](https://drive.google.com/file/d/1vQepWxkLYb18GMF7AuoZQbdra1zp7_1M/view?usp=sharing).
 - 👨‍🎓 My study cases are available below.
 
 ## 👀 My study cases:
